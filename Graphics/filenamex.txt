@@ -1,0 +1,16 @@
+apple.png
+body_bottomleft.png
+body_bottomright.png
+body_horizontal.png
+body_topleft.png
+body_topright.png
+body_vertical.png
+filenamex.txt
+head_down.png
+head_left.png
+head_right.png
+head_up.png
+tail_down.png
+tail_left.png
+tail_right.png
+tail_up.png
